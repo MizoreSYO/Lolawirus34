@@ -1,0 +1,26 @@
+{
+  "name": "Leroy Poole",
+  "age": 34,
+  "address": {
+    "street": "Wonew Plaza",
+    "city": "Recoctem",
+    "state": "OK",
+    "zip": "98651"
+  },
+  "contact": {
+    "phone": "(432) 794-6675",
+    "servicePhone": "800336683"
+  },
+  "birthday": "1969-03-31T08:05:17.324Z",
+  "ip": "93.162.94.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Gizo dev zifvusmus tefpolac woruc wewuc lehosato ko fopukezo sa howo ki. Ewu nem ofju gadi noosjo rispe fekenmij elo nerwapo ezgojul piheweri ta wuf nu. Taed zocevga soshomil dunricew ti kiguz duviktil larpekga ponimik bihop ku laga vi wakwig.",
+    "bio": "Bimusov fafulmum ejtuibu fa ohcehpo cedujaz ca dibazaf cowaw iv ipurnat hatib tihof ofujew iv. Kafjab avu bewtozi bi on sawfofu su dezus te hak par luhagop kasamwop. Efoibawoz va vurga ku rufemim ivookfav fawde cogaku udzot hopuwbus es gi kabwidpe. Ilu espojwem bukwebbo vugesa me gedsuz vetrum imaeviv jep cadapni uftez humducben jenoba noplofiw lamtagi tebijo. Motdom geb pohkole ewanafih nuafedal mic zuzruzwab kuemovat dimu geg ha so evharato guup ruiwjor. Ro movmuw ok duwerja fofjos ruzviheh megpaol mej podtepu afi zon job docnen. Isohafte le zisaet eze nub ih owki olamej tes bijehdi zeemto viv ucbiwej gut ovusag."
+  },
+  "apiKey": "ff7e0041839c5c69ae347fdf09cd8f65936f9fe72b6b66034a968b407576d26b",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
