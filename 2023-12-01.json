@@ -1,0 +1,26 @@
+{
+  "name": "Hester Moran",
+  "age": 24,
+  "address": {
+    "street": "Ubgur Boulevard",
+    "city": "Etiocovin",
+    "state": "AR",
+    "zip": "67009"
+  },
+  "contact": {
+    "phone": "(854) 207-8135",
+    "servicePhone": "800589816"
+  },
+  "birthday": "1995-08-13T22:42:24.706Z",
+  "ip": "151.65.119.130",
+  "foo": "bar",
+  "profile": {
+    "about": "Amive fezoj noibe ahowu edu fo sevdeb wi ni ak bobocow guz wajehub piw besca. Li wimod nu ke om galufved gep owlosses meoj ebo cadre hujug. Juwwar nesat da ata tunusonu rulu suj ka um er irag ju ajpap ro pa. Utdihweb kamuw deamizuf ga pezsusi dig kimdael amanu cilimuv meanaud gejfol wuuj mih toka.",
+    "bio": "Lemado te kok uw peuf bazivo fufet lih wazujmet ehe etauno gez cos suap buco jerukdip gaw. Wejme pidadi bafhopom re zugu koubi lemut dibnavi burajhip oc figob paluwo oto ro cece. Ugubicoc senjencal hekol zutig mawizohej dawuj gul enate putidkoj ceesa gitloj zisahaag nu ah nekoh evufu osme. Lonefag uk udilofe ehonobap wupa faepje ru azi lo rufzajez ef dobov ehrob vimfozaf isaitdud. Kuri ud toki varak duljide fagok mam focdenu ovu ke hu kozeliko. Tuvo af pob sune ilesebu uzhisvu keefecuz fobi uvi ri we jajolihon ruliw zomrem una wih nikwepuc."
+  },
+  "apiKey": "479ae66267c21971c83a2340e16efabdf673fc0a3eb4a0727e9fe20417b2aac1",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
