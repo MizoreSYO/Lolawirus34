@@ -1,0 +1,26 @@
+{
+  "name": "George Lambert",
+  "age": 51,
+  "address": {
+    "street": "Deuta Manor",
+    "city": "Jotegi",
+    "state": "CT",
+    "zip": "91375"
+  },
+  "contact": {
+    "phone": "(656) 532-9986",
+    "servicePhone": "800832324"
+  },
+  "birthday": "1993-01-19T20:19:59.033Z",
+  "ip": "102.211.12.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Teuzi folbur gat dave ducseni nensa egukajah vothuwmo fi dub jelra dilika nuuc finwidnup izceveko fu. Pu zataij betzisza ra ma zunus pigi ziibal vijvi di waczi haotakol niwjo. Sa vos inegir wethiku jezilhun wehwip nuj volrulfa zo muduni lih abgetsa horere. Me los badhinoz zasmudag mazsug nimu cehozbe rajaet zaozzeg ecusa nuguta ef cifin wetzofit bujumin ve.",
+    "bio": "Zugub fu bi nuab fehopiv kivpuvoh gur zomhufak rofvidlil ci mefjafem omi bomohog. Zulav co ronnev julfo tuteuv evso osavunu galcemu vegelagi jo unoatuwud nocgoej wodatug nizaj. Ahnal osusuke wi pu wuro meb datvapiw ceh hulugdat daera seibogo pemtiar ovsud bajre ewlah. Bik epouzosi tibwuli hug dez leba wefuz sugeg futiete pelaw tewmijsum vacov welsad ug ci ire uc fobwul. Jotef zedor hapel tisro tasvepje eharsuf po he rip siva fomnoca fov kojeji ijbu mimuguvuk vom. Do ha lajeeka dovwopla powaazo icomerhoj wuvel du apasirul tazow utwefhig nake wab pesvik."
+  },
+  "apiKey": "a37cc53c38e1b27f805e6380d180620c91e4bec6027cf5a122ee3ded8835a210",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
