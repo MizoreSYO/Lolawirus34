@@ -1,0 +1,26 @@
+{
+  "name": "Lucas Arnold",
+  "age": 42,
+  "address": {
+    "street": "Ubir Point",
+    "city": "Edmeaso",
+    "state": "ME",
+    "zip": "62155"
+  },
+  "contact": {
+    "phone": "(624) 475-9895",
+    "servicePhone": "800265559"
+  },
+  "birthday": "1982-12-08T11:17:15.645Z",
+  "ip": "27.120.225.104",
+  "foo": "bar",
+  "profile": {
+    "about": "Jip ica mi zupa fa wem neggez ibenu waijnuv juifiig ot ovo arilejme de noriflu. Ha cu cafrowo vucmezuc lurto fi panoji batumdub woibigig luhdi cucsebi vonzadwo nefatsi apofuta. Jut pez mob ho rimepe tojseuh colo bamip gi une ne apubogu. Liopgok redocuj ivceici zaz sa tole rewrewe ev ma vic lufkan ji cumbe kozcil. Wab zuzpak weblup vi fikusco veef di je eviribuk ip savowpa ezokalec si foplino.",
+    "bio": "Marwit nagsasuge ro kiz faf revzogog ag fojibufuw pir vofocu licalan teaboce om zozikik didog zudvudcu rig. Dos wu mafab itojew supah uv bawa vesci dirohip kocutov dejobi adibeg. Eto di uwapip nirvow vokejupu ug lasel ugozubza jiki pofcag deulo ecesot govubapu seiwise kihume urge ehe itvu."
+  },
+  "apiKey": "c768fa8dd4ada885b7dd375a266046e479ee9268cdcf3f52039fb2dc75480bfc",
+  "currency": {
+    "code": "CVE",
+    "name": "Cape Verde Escudo"
+  }
+}
