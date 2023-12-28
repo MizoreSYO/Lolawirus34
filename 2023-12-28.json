@@ -1,0 +1,26 @@
+{
+  "name": "Etta French",
+  "age": 35,
+  "address": {
+    "street": "Ozuwid Place",
+    "city": "Enapaeva",
+    "state": "ID",
+    "zip": "07645"
+  },
+  "contact": {
+    "phone": "(671) 995-7157",
+    "servicePhone": "800285315"
+  },
+  "birthday": "1992-02-19T08:51:42.640Z",
+  "ip": "245.135.56.104",
+  "foo": "bar",
+  "profile": {
+    "about": "Zenebiijo hi futidis cipupcu gusurhih ijugsiv juzijozeg nurcov furwibi necul umizli wa bopezub jaj kakiz ni. Nugulfij piba pusa ojoheltom sugkusfu ugenofam fewufme ut me vomugeha aknakapo ukzo aw lel. Weverje silovbon ez tufoj ne keg zubimzi hic aki catoago dakgezdog ri esi hib hulagu nouknu bu omeaje.",
+    "bio": "Cigizet sig tabiv seri venonnos jabri sucaw gi hu osepfu pis fivzodif te dodmeok. Ucazso gakose neg za reociwo owva but da kit guh fefuso fo gotazuod. Izomuazu zibafa ka hi mef rivona ope tiuj ceumza wokiow mahazuc kutcofu nitutu."
+  },
+  "apiKey": "2caf09f82d07ecd5d7a28c92161847dc2dbc9e3b8d918fd616b8ef9ca59a28ad",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
