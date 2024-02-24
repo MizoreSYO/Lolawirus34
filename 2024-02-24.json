@@ -1,0 +1,26 @@
+{
+  "name": "Mark King",
+  "age": 34,
+  "address": {
+    "street": "Sigi Road",
+    "city": "Fuzosah",
+    "state": "WY",
+    "zip": "22829"
+  },
+  "contact": {
+    "phone": "(833) 392-7665",
+    "servicePhone": "800977569"
+  },
+  "birthday": "2006-11-10T20:20:58.149Z",
+  "ip": "89.103.233.95",
+  "foo": "bar",
+  "profile": {
+    "about": "Duibunu feuteus zoze lecas gubipho ametidbu pizudpa iciraze leb ifajafcuh kow ju acrobi eb vi ad wi emiho. Paca uk hoh mo wek ipepid jeh poz tuj siaje obaniz masepa dof urovi wufrebgo dud. Zopune tegmohcat fodsam he leh awutire kahehon baome nigwil dijpobun lioh wakid ub naivu pituz buzami.",
+    "bio": "Nigjobo vus met ale vir wipletmih ivjane piusu ogohov civedo rahku lut pajazak ehbe bu ser. Zohdik ma ur giznatmuh omacevuc kib ipotipu no iwoovcaz imasozob ver rumev porwuttoh hacic cumim kuolelub un ekoatu. Ce da guzwoig feloz som muv jir paz gawtija mon pimme kokjug. Cir ji fajdufo sanfij do akhocbe tujso bil uheov zok po mawca dimiwom kewuvi to sefenlod."
+  },
+  "apiKey": "8e0c2ef833595e4afc09092f52a2579b001e2ecf2d4de08077bd01ec5f688bff",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
