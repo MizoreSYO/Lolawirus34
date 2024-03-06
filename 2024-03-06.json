@@ -1,0 +1,26 @@
+{
+  "name": "Jorge Flowers",
+  "age": 21,
+  "address": {
+    "street": "Dudo Boulevard",
+    "city": "Ovukeroh",
+    "state": "MI",
+    "zip": "46547"
+  },
+  "contact": {
+    "phone": "(885) 251-6265",
+    "servicePhone": "800779965"
+  },
+  "birthday": "2004-09-26T10:22:13.364Z",
+  "ip": "40.41.178.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Jipepdu hu kabu parar tuw bipin juf gapuw wuco soveha hupu rual ros ri heta ka lereub faru. Vurbudah ij figit asaril fotekupad kiredaz ijoofi kudapeg sidfebtuz nokefvus ubedu nalu. Sah gem pozjijuho efu nas ezoza or wo wuolkud temdutwac taogi mirap kavmonbob lavic. Opsik pa pora riimakoz amjotup funhev wicuho toafinu mem com zak wik. Malugla aroko guztifemo we sezziduz mubdasba uwcaw bukhevwig wod vo pepode ra.",
+    "bio": "Kocliv co olucus volko huhejeh bogjobow kedihdak tet uka ibhuv fothi vefet mien. Oz ujuh hozna ma puguver urlacte luthelmu gamuh piaku jagfe pen ju ro idepeebe huwejsur te rawzazi nofza. Up hun dezuesa ajpo weh wok cefjoksi canfin hisu peb horzisin kas. Jakaaja pe ko lukcicup ap biom kezkicja so zodvieco umebalip ne zabdi loifote socu egekavop. Sojele neta lik giharow wasanih nigig guuzacom mu ka zebav acsodi pufimiipu tas da."
+  },
+  "apiKey": "c9f116a9d6bb7315ea92aedb58f98574df1e544f297aa59b9a2772a84923388b",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
