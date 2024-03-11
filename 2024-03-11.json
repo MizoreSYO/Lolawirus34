@@ -1,0 +1,26 @@
+{
+  "name": "Eleanor Young",
+  "age": 21,
+  "address": {
+    "street": "Kave Pike",
+    "city": "Jeninu",
+    "state": "ME",
+    "zip": "10367"
+  },
+  "contact": {
+    "phone": "(665) 965-2953",
+    "servicePhone": "800477269"
+  },
+  "birthday": "1993-04-06T09:12:48.192Z",
+  "ip": "218.122.97.102",
+  "foo": "bar",
+  "profile": {
+    "about": "Ha roncaze banu raj de kuw itbiuzo sa zuslihewa meh arwoted rerworu himadag vono okzuwca jiibne. La miboc ticle up upouto hopgokcup jewrutpa elutaod wanujof zav vuvodwon luva. Cifsu jivu ujigewzun sovud zi ununudi gub ewvo tephit silipezur kuzhi kudi bis ojno keginih torheimu dibmihah. Bu mot misohbad higupag wamki gavzevufo niw zid cuzcivgi rodufudo lidwas jis lon. Ebo ifamih mazabuh ma zekromnez miemiju rualezik dince zac vo ne tis. Da bo roibu edadenac dosti ofufiw huzmoc tiwu jafupor fag fohi luhlawma pucbac ric. Zozkuafa hub vasulve maw abo leudu icerugka wadno supuz owapopan jagluofi abozave tikirgo vom wepdi.",
+    "bio": "Lavofpo rinbod esip unilimzot vif ehih uci je mohusjaj owtestur kin vepoha. Ada lu jel du pudad kefir cuka tuti nenza pug puvaca dupkab. Bel cebure cukalfi kos fogvoni bur hevwihru hitab ocigodu keti jebziane luwo zew co pitla rutulej rowhunkab."
+  },
+  "apiKey": "5ce71d2cb782f157e6875c6f10abaa4781b316f6108c9d90385e7fab80c6fff6",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
