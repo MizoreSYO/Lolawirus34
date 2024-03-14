@@ -1,0 +1,26 @@
+{
+  "name": "Edith Stevens",
+  "age": 18,
+  "address": {
+    "street": "Ekfu Parkway",
+    "city": "Vujabrut",
+    "state": "RI",
+    "zip": "92183"
+  },
+  "contact": {
+    "phone": "(803) 966-3543",
+    "servicePhone": "800197535"
+  },
+  "birthday": "1959-02-05T06:10:26.094Z",
+  "ip": "136.47.155.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Ovhiwuk uvi zavoh erohpu gemgev gofazle relijca sonhut li tettucho wispug om saahalo. Fiuzso sopo gu wivaciw cukok jus la livrebpur tonuk vewlo wak etujucu tet. Bogfu orukelos la rojiw lev ga zugte latbim hikdizab eruho helzevoc nog cefi magnat joj. Fadnaog ewka lab fopomtol rodaj tojze wog madas rijepi vagafu geru sesozir no ewo ipiri.",
+    "bio": "Noj potuv cu ja vofujev ciczal etiurubas ilgul azlag itkar kehawih foogi log waf votheloj ivecadci. Feiba rumiz za lo gemduk nedin nugruwzuv ad nepowra kapret usepikji foheksa obosir. Noveka ofgor nis winutdag dun lotujbu ivbujsun obo lohuf mubteg la wuic fun uje haw pad ridu. Com doono po kin vampi etovewve okpufle fuivapa wok kedov kacinuco posinon wahju uroscun gifpeb. Guval wuv ba hu vuukufim jazci mik iw kezkozve ec kushofo bibot co. Mepahin cingov hu sigtup des de pac cibbub jaozi maeco tivje junac nozabna gij gahkapzu wupohus."
+  },
+  "apiKey": "a376161f1816a85d19ca7248fb5b243a9f1f6e6d6b1cd53d332f9173fc276c0b",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
