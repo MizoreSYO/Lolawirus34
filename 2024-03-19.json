@@ -1,0 +1,26 @@
+{
+  "name": "Daniel Olson",
+  "age": 21,
+  "address": {
+    "street": "Jizez Court",
+    "city": "Muzifaboc",
+    "state": "WI",
+    "zip": "61855"
+  },
+  "contact": {
+    "phone": "(849) 612-7319",
+    "servicePhone": "800563216"
+  },
+  "birthday": "1959-05-28T11:01:23.071Z",
+  "ip": "83.252.235.196",
+  "foo": "bar",
+  "profile": {
+    "about": "Minjufo co gugi eb geb ibu fa ocivan miscuz des ja kurip dib. Apono lurko ahagev jefkaz hilbesan wirupuuv pa egado okolunin iwuivula me ki ajdivdu jaazo cuf. Wa irwez iruse fe pagacij rukemka iriwobve pi napviwor zu me gahoh peb. Pic biekpa cuhhuteso ja vovtedar wekjavo ve evvig kogfuab hotza boohluz sisokas hoku ko muwdasvo.",
+    "bio": "Werkihpu heki ab ge ev utcam en pamlo du kam tug ah runat he. Cusebtu tubowgi socne rah ti da netukuebo ceb gololo lecvawgic lufilo nikwaek hutkoduco ce. Sufa dejbuppiz felnad elojudvu emu cos labekop dujizpen cara rimap essermiz zo wul jecmatib palow guce webogrer cu."
+  },
+  "apiKey": "4d9d3339d726e312558cf9dba9cefd544c323e3c83b6286e4789d09cf8554043",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
