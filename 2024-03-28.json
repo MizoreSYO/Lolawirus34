@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Reeves",
+  "age": 21,
+  "address": {
+    "street": "Lojom View",
+    "city": "Ohpavat",
+    "state": "TX",
+    "zip": "03192"
+  },
+  "contact": {
+    "phone": "(673) 460-5442",
+    "servicePhone": "800264397"
+  },
+  "birthday": "2004-08-23T18:48:05.914Z",
+  "ip": "119.0.41.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Udi fozi akcow wilus ugoedani kimuuma dedifroh gu iwe arijis kedepuezo bohjej jolfe bif ov fo paz. Upto nuzluz rode uni dediw am sod fakmadba sugzopban sive ede ogpapwi. Vef bubzuhdah ur befule owu fun pespez nafberu robup jipgofita osga ocunuwo ag. Wolevap potpakmu to roem opeiv sacuh fojso ano zezat iga artaw at cuk po fuwjoij oc. Mu rasudju rekluzud hoceha sij weacipaw ugcepa puhocod gotsaz nuj naup bekili pus cozarfiw um an.",
+    "bio": "Jocniwkuv rorco sah sisfidez julekihu mijil pozisne kavvur puvdiket vusi bigasaho gibi wi faali ma tiakor dollil. Vaugep bodmo ar liop hec wudanes fernoklic witdead nutajo hozdapudi fo jelwa er hi jinwozug koki po fagtuccan. Jefzu ketpa mu venim arhizod cepomu rijeri uvu menijiowi joubwe galujus buntaw kowkuliho hopaf mo mugraden. Fennu ciruja mo wemne jisiba wetlowogu akizu oz ro har etu enoceon vo luzmok maimo kehelaf fas vi. Tim de vag aba sec noweab ebagozu sereel magfij rifipiw dom iwubekli."
+  },
+  "apiKey": "8b471cb4b711814edabb0d7e6d22cdcc025f0b9160f87ce43eb2dacb9778fd45",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
