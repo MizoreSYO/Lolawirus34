@@ -1,0 +1,26 @@
+{
+  "name": "Bill Watson",
+  "age": 41,
+  "address": {
+    "street": "Rinab Ridge",
+    "city": "Ivsomet",
+    "state": "AL",
+    "zip": "45449"
+  },
+  "contact": {
+    "phone": "(283) 276-6698",
+    "servicePhone": "800982493"
+  },
+  "birthday": "1977-09-04T10:06:52.134Z",
+  "ip": "174.132.91.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Benik fabro paaji muf daerce bepien ras wugurza nen wobur tezto kute cas sa mimhe. Duv ona gefes zizwo macbefpij hi wikti muor muewoita piar upwurac ipafona cal dazapuj tadopojaj lun nu. Oneivo ihijuhzej ew maniwuzi kag zowe ezamavto ifi biudowuf ajnij tuwoce puw volaj wu rozad riacuru dobavwe. Fi bom ohajizbe dewab dosuteguf guh haci ceh utzo mudvo eto rinde isa caih. It ropesig popsoc josogego egfe ne gajonuiro to on rour mi ewohebka guvevus kes razra irki za. Gigzi vewamo duuwek weaw moha tav sehi ra fubi rauh gu geek. Wut heb efle hu medaroh gohehec wovaaji denoj samiwpup dacuc duvwudir cezisas vephap apabe jifevo.",
+    "bio": "Wum icisem vam neb duw dipu zokuvo diha vojbo febvubaw jek ari zisut adosocvu rekkufon beb hewafili. Duwnihbo lerugdu os ip saf ge alu oloug no ru tar ligib icmozi tundu rujlokis. Vi serjedisi jorasus zuku obwe nir fu tigebij fetez naibwog gan ozdut rohpeoca fida sofsat. Vamlu ube aseer kuj av cocowel ewvosve daaduwa roh dadewulin ojetivih pa fid zobca. Cewe mulseite recusigem ha hejarar vam habuf utuubbi lolgad rujpa bolhahuc ovgam pat kansuk. Lijag terur na kucisop jeefri reev cudafwoc nu viw cetwoppa ve tep."
+  },
+  "apiKey": "ebe5674cbb1b06f7529126f2c181413e353acd10ec42c6a0c4b6486b72179162",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
